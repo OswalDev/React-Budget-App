@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# React Budget App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this budget app for personal finances using react hooks and LocalStorage where you can add different budget categories and expenses, with animated color bars to measure and balance your expenses
+
+## App preview
+<img src= "public/images/budgetApp.jpg ">
 
 ## Available Scripts
 
